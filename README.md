@@ -1,6 +1,7 @@
 Meine Idee wäre, eine Art Minispiel in Form eines interaktiven Notizbuches zu machen:
 
-Die Seite hat die Form eines Notizbuch mit Kritzeleien, kleinen Bildern, Lesezeichen etc., muss aber, um andere Seiten aufrufen zu können, für jede Seite jeweils ein Rätsel lösen (z.B. eine bestimmte Stelle ausreißen, Objekte an bestimme Stellen bewegen, Codes herausfinden etc.). Hinweise auf die Lösungen finden sich immer auf den bereits freigeschalteten Seiten.
+Die Seite hat die Form eines Notizbuch mit Kritzeleien, kleinen Bildern, Lesezeichen etc.
+Der User startet mit einer bestimmten Seite und muss, um andere Seiten des Notizbuches aufrufen zu können, für jede Seite jeweils ein Rätsel lösen (z.B. eine bestimmte Stelle ausreißen, Objekte an bestimme Stellen bewegen, Codes herausfinden etc.). Hinweise auf die Lösungen finden sich immer auf den bereits freigeschalteten Seiten.
 Ziel ist es, jede Seite des Notizbuches freizuschalten.
 
 Meine Ideen für die Umsetzungen würden u.a. beinhalten:
