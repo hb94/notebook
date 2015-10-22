@@ -1,0 +1,10 @@
+
+Die Nutzeroberfläche der Anwendung besteht aus einem (möglicherweise abfotografierten) aufgeschlagenen Notizbuch, 
+in dem der User mit verschiedenen interaktiven Komponenten interagieren kann.
+Bestandteil der Nutzeroberfläche sind auch Verlinkungen auf bereits erspielte andere Seite in Form von Lesezeichen 
+am oberen Rande des Notizbuches.
+Weitere Komponenten, die mit HTML realisiert werden können, sind unter anderem:
+- Bildlinks auf der Oberfläche, die bestimmte Aktionen auf der Seite auslösen (z.B. man klickt auf eine Ecke 
+und reißt damit einen Teil der Seite heraus; der Klick auf einen Knopf öffnet ein geheimes "Fenster" im Notizbuch)
+- Eingabefelder und Tabellen, die zur Lösung der Rätsel beitragen oder in die man seine Lösungen eintragen und 
+auf Richtigkeit überprüfen kann
