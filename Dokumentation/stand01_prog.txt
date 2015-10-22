@@ -1,0 +1,4 @@
+PHP - Sven Maderer
+
+Die Seite soll Rätsel beinhalten welche der Spieler lösen muss um weitere Seiten freizuschalten.
+Also muss die Seite die funktion erfüllen eine Interaktion möglich zu machen welche es ermöglicht die Rätsel durch verschiedene Eingaben zu lösen und so weitergeleitet zu werden. 
