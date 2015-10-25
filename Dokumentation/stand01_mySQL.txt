@@ -1,0 +1,4 @@
+David Harder, MySQL Teil.
+
+Wir nutzen MySQL hauptsächlich dafür den Fortschritt des Nutzers zu speichern und abzurufen, damit mehrere Leute wann sie wollen das Spiel spielen können und nicht automatisch von vorne anfangen müssen.
+Es besteht auch die Möglichkeit eine Art highscore Liste zu integrieren, in der zu sehen ist wer das Spiel am schnellsten beendet hat.
