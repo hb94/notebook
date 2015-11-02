@@ -2,3 +2,16 @@ David Harder, MySQL Teil.
 
 Wir nutzen MySQL hauptsächlich dafür den Fortschritt des Nutzers zu speichern und abzurufen, damit mehrere Leute wann sie wollen das Spiel spielen können und nicht automatisch von vorne anfangen müssen.
 Es besteht auch die Möglichkeit eine Art highscore Liste zu integrieren, in der zu sehen ist wer das Spiel am schnellsten beendet hat.
+
+UPDATE 30.Oktober 2015
+
+Da ich vorerst noch nicht wirklich viel meines MySQL Teils konkret umsetzen kann, werde ich erstmal die Dinge die ich später umsetzen werde genauer aufführen.
+
+	Benutzername: [Typ: VARCHAR]
+	Passwort: [Typ: VARCHAR] 
+		Hier werden wir wohl auch einige Beschränkungen bzw. Vorgaben für den Nutzer stellen. 
+		Nach meinem aktuellen Informationsstand ist es auch möglich spezielle Datentypen zu definieren, was ich unter Umständen hier einsetzen werde
+
+	Speicherstand: [Typ: noch unklar, wir werden hierzu wohl mit festen Seitenversionen der Anwendung arbeiten, wie das in MySQL umzusetzen ist muss ich dann noch erarbeiten]
+
+	Notizen: [Typ: wahrscheinlich VARCHAR] Der Nutzer hat während des Spiels die Möglichkeit Notizen zur Lösung der Rätsel zu machen, diese wollen wir mit abspeichern
