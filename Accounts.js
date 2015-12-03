@@ -7,6 +7,18 @@ function Account (username,passWord){
 
 var users = new Array();//Nutzerverzeichnis
 
+/*
+=== Feedback Alpers, Dez 3 ===
+
+Wenn Sie so vorgehen, dann gibt es jedes Mal, wenn die Webanwendung gestartet wird
+keine User-Accounts. Denn hier beginnen Sie ja mit einem leeren Array.
+
+Die Anbindung von Datenbanken in JS ist leider nicht so einfach zu realisieren
+wie in PHP. Deshalb hatte ich Ihnen auch davon abgeraten.
+
+=== Feedback Alpers, Ende ===
+*/
+
 var createAccount = function(){
 	
 	var userName = prompt ("Geben Sie hier den gewünschten Benutzernamen ein: ");
@@ -42,3 +54,16 @@ var createAccount = function(){
 		createAccount();
 	}
 }
+
+/*
+=== Feedback Alpers, Dez 3 ===
+
+Das ist zwar ein schöner Anfang, um eine User-Registrierung zu realisieren,
+allerdings ist das wichtigste bei einer dynamischen Webanwendung, dass die Elemente
+der Anwendung eine Nutzerinteraktion ermöglichen.
+
+Dazu müssten Sie Funktionen programmieren, die von den Containern in HTML aufgerufen werden
+und die dann die Inhalte der Anwendung ändern.
+
+=== Feedback Alpers, Ende ===
+*/

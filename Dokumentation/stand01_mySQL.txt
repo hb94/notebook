@@ -15,3 +15,12 @@ Da ich vorerst noch nicht wirklich viel meines MySQL Teils konkret umsetzen kann
 	Speicherstand: [Typ: noch unklar, wir werden hierzu wohl mit festen Seitenversionen der Anwendung arbeiten, wie das in MySQL umzusetzen ist muss ich dann noch erarbeiten]
 
 	Notizen: [Typ: wahrscheinlich VARCHAR] Der Nutzer hat während des Spiels die Möglichkeit Notizen zur Lösung der Rätsel zu machen, diese wollen wir mit abspeichern
+
+=== Feedback Alpers, Dez 3 ===
+
+Das ist zwar schon ein sinnvoller erster Entwurf für eine DB, aber mittlerweile haben wir in der Veranstaltung besprochen, wie
+Sie diesen Ansatz in eine DB umsetzen können.
+
+Außerdem ist es für Projekt deutlich zu wenig Inhalt.
+
+=== Feedback Alpers, Ende ===
