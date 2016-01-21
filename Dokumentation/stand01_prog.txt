@@ -7,4 +7,8 @@ Erlernen von JS....
 
 Nach eindringlichem befassen mit JavaScript habe ich nun angefangen erste Dinge zu erproben und ein paar Funktionen umzusetzen.
 
-Einen kleinen Versuch zu einem Minigame hinzugefügt... 
+Eine Funktion um Accounts zu erstellen wurde programmiert. An der Stelle werden allerdings nur Acounts in einem Array gespeichert. Diese Form ist nur temporär funtionsfähig. Nach Neustart gehen alle Daten verloren. Sobald eine Datenbank da ist könnte man hier Daten speichern und auslesen. 
+
+Einen kleinen Versuch zu einem Minigame hinzugefügt. Der Canvas im HTML Teil ist auf eine externe Website eingelagert bis auf der Hauptseite etwas ähnliches vorhanden ist... 
+
+
