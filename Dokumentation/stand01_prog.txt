@@ -1,4 +1,4 @@
-JavaScript - Sven Maderer
+﻿JavaScript - Sven Maderer
 
 Die Seite soll Rätsel beinhalten welche der Spieler lösen muss um weitere Seiten freizuschalten.
 Also muss die Seite die funktion erfüllen eine Interaktion möglich zu machen welche es ermöglicht die Rätsel durch verschiedene Eingaben zu lösen und so weitergeleitet zu werden. 
@@ -10,5 +10,11 @@ Nach eindringlichem befassen mit JavaScript habe ich nun angefangen erste Dinge 
 Eine Funktion um Accounts zu erstellen wurde programmiert. An der Stelle werden allerdings nur Acounts in einem Array gespeichert. Diese Form ist nur temporär funtionsfähig. Nach Neustart gehen alle Daten verloren. Sobald eine Datenbank da ist könnte man hier Daten speichern und auslesen. 
 
 Einen kleinen Versuch zu einem Minigame hinzugefügt. Der Canvas im HTML Teil ist auf eine externe Website eingelagert bis auf der Hauptseite etwas ähnliches vorhanden ist... 
+
+=== Feedback Alpers, Feb 9 ===
+
+Git zeigt mir an, dass diese Datei das einzige ist, was sich seit dem letzten Feedback geändert hat. Damit wurde seit dem 3. Dezember effektiv nichts geändert. Sie sollten sich überlegen, ob Sie nicht lieber im nächsten Semester nochmal mit einer neuen Gruppe ein neues Projekt starten.
+
+=== Feedback Alpers, Ende ===
 
 
